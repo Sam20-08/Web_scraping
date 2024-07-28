@@ -14,4 +14,4 @@ Heyy, I have done web scraping using Beautiful soup and request
 
 6.Grabbing different links from a webpage using 3 different ways (Select,Find,Find_all)
 
-&.Iterating through different files and grab the element and find the word that is hidden in the tag
+8.Iterating through different files and grab the element and find the word that is hidden in the tag
